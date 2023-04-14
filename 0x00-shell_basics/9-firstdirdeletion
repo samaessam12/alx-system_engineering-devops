@@ -1,0 +1,2 @@
+#!/bin/bash
+em -r /tmp//my_first_directory
